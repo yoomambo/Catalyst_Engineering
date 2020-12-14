@@ -6,13 +6,18 @@
 
 ### 1-2. Brunauer-Emmett-Teller (BET) method
 
+$$\frac{P}{V(P_0 - P)} = \frac{P(C-1)}{P_0 V_mC} + \frac{1}{V_mC}$$
+
 ### 1-3. Specific Area by Selective Chemisorption
 
 1. $H_2$ Chemisorption
-2. Dispersion 측정
-   1. TPD
-   2. XRD
-   3. EM
+2. $CO$ Chemisorption
+3. $NH_3$ or Pyridine
+
+### 1-4. Dispersion 측정
+1. TPD
+2. XRD
+3. EM
 
 ## 2. Pore Volume
 
