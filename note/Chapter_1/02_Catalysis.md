@@ -41,11 +41,11 @@ ex) $Cu : CH_3OH \to HCHO$, $Al_2O_3 : 2CH_3OH \to $
 ### 4-2. Probe Reaction
 
 1. alcohol
-   1. dehydration (탈수)
-   2. dehydrogenation (탈수소), 산화반응
+   1. Olefin : dehydration (탈수)
+   2. Aldehyde : dehydrogenation (탈수소), 산화반응
 2. Olefin
-   1. isomerization : 산촉매
-   2. n-paraffin : $Pt/Al_2O_3$, hydrogenation (수소첨가반응)
+   1. isomerization 일어난다면 : 산촉매
+   2. n-paraffin 생성된다면 : $Pt/Al_2O_3$, hydrogenation (수소첨가반응)
 
 ### 4-3. BiFunctionality
 
