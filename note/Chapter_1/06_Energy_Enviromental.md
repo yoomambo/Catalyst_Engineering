@@ -85,7 +85,7 @@ $$CO + H_2O \to CO_2 + H_2$$
 3. 해결 : Low Temp 으로 낮춰서 평형을 오른쪽으로 쏠리게 만든다. ($Cu$)
 4. 해결 : Low Temp에서 반응속도가 느려 큰 반응기가 필요
 5. 촉매
-   1. $FeO_3, FeCr$
+   1. $Fe_2O_3, FeCr$
    2. $Cu$
 
 ### 4-2. PROX (PReferiential OXidation)

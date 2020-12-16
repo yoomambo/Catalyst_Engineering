@@ -33,7 +33,7 @@
 
 - _**Fischer-Tropsch**_ : 석탄으로 석유를 만들 수 있다.
 - $CO + H_2 \to C_nH_{2n+2}$ (Hydrocarbon)
-- $Fe, Co$
+- $Fe$ in $Co$
 - Hydrocarbon이 chain rule에 의해 선택적으로 만들기가 힘들다.
 
 ## 6. Partial Oxdiation

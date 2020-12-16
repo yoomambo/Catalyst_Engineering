@@ -84,7 +84,7 @@ $$\frac{\delta \ln P}{\delta T} = \frac{q=\triangle H}{RT^2}$$
 $$\ln k = -\frac{E_a}{RT}$$ 
 $$\ln K = \ln \frac{k_a}{k_d}=-\frac{E_a}{R}(\frac{1}{T_a}-\frac{1}{T_d})$$
 
-### 3-1 Physisorption
+### 3-1. Physisorption
 
 1. condensation
 2. no activation E
